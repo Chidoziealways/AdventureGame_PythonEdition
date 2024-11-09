@@ -1,12 +1,13 @@
 [tool.poetry]
 name = "adventuregame-pythonedition"
-version = "0.1.0"
+version = "123adga1234"
 description = ""
 authors = ["Chidoziealways <uzowuluchidozie@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.13"
+pygame = "^2.6.1"
 
 
 [build-system]
